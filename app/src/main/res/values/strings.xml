@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="title_activity_main_menu_list_">MainMenuList_</string>\
+    <string-array name="menu_options">
+        <item name="play">Play</item>
+        <item name="high_score">High score</item>
+        <item name="options">Options</item>
+    </string-array>
+</resources>
